@@ -19,13 +19,7 @@ Skills:  REACT / JS / HTML / CSS /JAVA
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikavishnoi&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rishikavishnoi)  
 
-![GitHub metrics](https://metrics.lecoq.io/rishikavishnoi)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rishikavishnoi)  
-
-![Profile views](https://gpvc.arturio.dev/rishikavishnoi)  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikavishnoi)](https://github.com/anuraghazra/github-readme-stats)
