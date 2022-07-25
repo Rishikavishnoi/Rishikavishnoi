@@ -1,8 +1,8 @@
-Hii , I am Rishika Vishnoi (B.tech Cse) from bundelkhand university , jhansi
+
 
 
 ### Hi there 👋, my name is Rishika Vishnoi
-#### Web Developer || B.tech (CSE) 
+#### Web Developer || B.tech (CSE) || @hackclub rait 
 I am currently working as an intern in Tinselsnation.
  
 
