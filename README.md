@@ -1,8 +1,8 @@
 
 
 
-                                                           ### Hi there 👋, my name is Rishika Vishnoi
-                                                      #### Web Developer || B.tech (CSE) || @hackclub rait || SSOC  
+   ### Hi there 👋, I'm Rishika Vishno
+ #### Web Developer || B.tech (CSE) || @hackclub rait || SSOC  
                                                       
  
 
