@@ -18,7 +18,7 @@ REACT / JS / HTML / CSS /JAVA
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikavishnoi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikavishnoi&show_icons=true)  
 
