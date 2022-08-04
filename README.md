@@ -1,9 +1,9 @@
 
 
 
-### Hi there 👋, my name is Rishika Vishnoi
-#### Web Developer || B.tech (CSE) || @hackclub rait 
-I am currently working as an intern in Tinselsnation.
+                                                           ### Hi there 👋, my name is Rishika Vishnoi
+                                                      #### Web Developer || B.tech (CSE) || @hackclub rait || SSOC  
+                                                      
  
 
 
