@@ -23,9 +23,10 @@ REACT / JS / HTML / CSS /JAVA
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Rishikavishnoi&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishikavishnoi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
 
 ## Connect with me  
 <div align="left">
