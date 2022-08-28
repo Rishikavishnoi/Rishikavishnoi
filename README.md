@@ -7,8 +7,7 @@
  
 
 
-Skills:  
-REACT / JS / HTML / CSS /JAVA 
+
 
 
 
