@@ -29,16 +29,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishika-vishnoi-94a0b9213/" target="_blank">
+<a href="https://linkedin.com/in/rishika-vishnoi-94a0b9213/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/Rishikavishnoi" target="_blank">
+<a href="https://github.com/Rishikavishnoi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/vishnoi_rishika" target="_blank">
+<a href="https://twitter.com/vishnoi_rishika" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/https://dev.to/rishikavishnoi" target="_blank">
+<a href="https://dev.to/rishikavishnoi" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>  
