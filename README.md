@@ -4,7 +4,7 @@
    ### Hi there 👋, I'm Rishika Vishnoi
  #### Web Developer || B.tech (CSE) || @hackclub rait || SSOC  
  
- - I am currently learning javascript , MERN STACK 
+
                                                       
  
 
@@ -14,7 +14,7 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' >](https://github.com/rishikavishnoi)  
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RishikaVishnoi&theme=dark&hide_border=true)](https://git.io/streak-stats)
