@@ -3,6 +3,8 @@
 
    ### Hi there 👋, I'm Rishika Vishnoi
  #### Web Developer || B.tech (CSE) || @hackclub rait || SSOC  
+ 
+ - I am currently learning javascript , MERN STACK 
                                                       
  
 
