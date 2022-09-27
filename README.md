@@ -1,7 +1,8 @@
 
 
  
-   ### Hi there 👋, I'm Rishika Vishnoi
+   ## Hi there 👋, I'm Rishika Vishnoi
+   
  #### Web Developer || B.tech (CSE) || @hackclub rait || Social Summer of Code 
 
  
@@ -53,6 +54,7 @@
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
 </div>  
+  
   
 
 
