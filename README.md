@@ -5,25 +5,17 @@
    
  #### Web Developer || B.tech (CSE) || @hackclub rait || Social Summer of Code 
 
- 
+Name |Description | Source Code   | Deployed at   | 
+---  | ---        |:------------: |:-------------:|
+Musicnoi | Musicnoi is a music player webapp  that is build using  Reactjs that contains following features such as song download , skip , forward ,play , pause , speed control etc  | [Repo](https://github.com/Rishikavishnoi/Music-player-ReactJs) | [Netlify](https://musicnoi.netlify.app/)
 
  
 
  
-
-
- 
  
 
 
  
-
-
-
-
-
-
-
 
 
 
