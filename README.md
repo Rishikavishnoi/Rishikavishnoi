@@ -9,22 +9,15 @@
  
 
  
- 
+ # 💻 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rishikavishnoi&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rishikavishnoi&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikavishnoi&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rishikavishnoi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
- 
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RishikaVishnoi&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-
-
-
-## Github Stats  
-![Rishika's github stats](https://github-readme-stats.vercel.app/api?username=rishikavishnoi)
-<br/>  
 
 
 Name |Description | Source Code   | Deployed at   | 
