@@ -1,7 +1,7 @@
 
 
  
-   ## Hi there 👋, I'm Rishika Vishnoi
+   ## Hello there 👋, I'm Rishika Vishnoi
    
    
  #### Web Developer || B.tech (CSE) ||  @hackclub RAIT || SSOC'2022 || Open Source Contributor
