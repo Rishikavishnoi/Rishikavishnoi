@@ -5,7 +5,7 @@
    
    
  #### Web Developer || B.tech (CSE) ||  @hackclub RAIT || SSOC'2022 || Open Source Contributor
-
+---
 
  
 
@@ -18,26 +18,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=rishikavishnoi&theme=radical&no-frame=true&no-bg=true&margin-w=4)-->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
  
-
-
-
-
 Name |Description | Source Code   | Deployed at   | 
 ---  | ---        |:------------: |:-------------:|
 Musicnoi | Musicnoi is a music player webapp  that is build using  Reactjs that contains following features such as song download , skip , forward ,play , pause , speed control etc  | [Repo](https://github.com/Rishikavishnoi/Music-player-ReactJs) | [Netlify](https://musicnoi.netlify.app/)
@@ -72,5 +54,5 @@ Solar System | Build a solar system using pure CSS animations in which all plane
  <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 -->
----
+
 
