@@ -9,21 +9,21 @@
 
  
 
-###  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishikavishnoi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rishikavishnoi&theme=radical&hide_border=false)<br/>
+
+
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikavishnoi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
 
+###  GitHub Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikavishnoi&theme=radical&show_icons=true)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikavishnoi&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rishikavishnoi)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rishikavishnoi&theme=radical)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rishikavishnoi)  
-
+ 
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rishikavishnoi&theme=radical&no-frame=true&no-bg=true&margin-w=4)-->
@@ -58,12 +58,13 @@ Solar System | Build a solar system using pure CSS animations in which all plane
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
  <!--  [![](https://visitcount.itsvg.in/api?id=rishikavishnoi&icon=0&color=1)](https://visitcount.itsvg.in)-->
   
 
  <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rishikavishnoi) 
 
 
