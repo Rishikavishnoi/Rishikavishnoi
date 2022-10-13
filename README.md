@@ -24,9 +24,8 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rishikavishnoi&theme=radical)  
 
  
-
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rishikavishnoi&theme=radical&no-frame=true&no-bg=true&margin-w=4)-->
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rishikavishnoi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
  
