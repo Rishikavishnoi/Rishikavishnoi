@@ -1,6 +1,6 @@
 
 
-   ![PandaHiGIF](https://user-images.githubusercontent.com/84177590/195639775-8d455b0a-6dfc-4328-aacc-31e37c03a587.gif)
+  
 
    ## Hii there 👋, I'm Rishika Vishnoi
    
