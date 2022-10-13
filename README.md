@@ -1,8 +1,8 @@
 
 
- 
-   ## Hii there ![HelloDogedashGIF](https://user-images.githubusercontent.com/84177590/195639355-5bd562b1-ae2a-413a-9592-56c3665faf1e.gif)
-, I'm Rishika Vishnoi
+   ![PandaHiGIF](https://user-images.githubusercontent.com/84177590/195639775-8d455b0a-6dfc-4328-aacc-31e37c03a587.gif)
+
+   ## Hii there 👋, I'm Rishika Vishnoi
    
    
  #### Web Developer || B.tech (CSE) ||  @hackclub RAIT || SSOC'2022 || Open Source Contributor
