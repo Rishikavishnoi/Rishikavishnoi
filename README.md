@@ -1,5 +1,3 @@
-
-
   
 
    ### Hii there 👋, I'm Rishika Vishnoi
@@ -17,7 +15,6 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikavishnoi&theme=radical&show_icons=true)  
 
 
 
