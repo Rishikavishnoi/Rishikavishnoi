@@ -4,21 +4,24 @@
    
    
  #### Web Developer || B.tech (CSE) ||  @hackclub RAIT || SSOC'2022 || Open Source Contributor
+ 
+ 
 ---
 
 
 
+<!-- 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikavishnoi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikavishnoi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+ -->
 
-
-
-
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikavishnoi&show_icons=true&theme=tokyonight)  
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rishikavishnoi&theme=radical)  
+
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rishikavishnoi&theme=tokyonight)  
 
  
  ## 🏆 GitHub Trophies
@@ -61,6 +64,7 @@ Solar System | Build a solar system using pure CSS animations in which all plane
  <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rishikavishnoi) 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rishikavishnoi)  -->
+[![Rishika's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishikavishnoi&theme=tokyo-night)](https://github.com/rishikavishnoi/github-readme-activity-graph)
 
 
