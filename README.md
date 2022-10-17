@@ -65,6 +65,6 @@ Solar System | Build a solar system using pure CSS animations in which all plane
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 -->
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rishikavishnoi)  -->
-[![Rishika's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishikavishnoi&theme=tokyo-night)](https://github.com/rishikavishnoi/github-readme-activity-graph)
+[![Rishika's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishikavishnoi)](https://github.com/rishikavishnoi/github-readme-activity-graph)
 
 
