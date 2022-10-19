@@ -3,7 +3,7 @@
 ### Hii there 👋, I'm Rishika Vishnoi
    
    
- #### Web Developer || B.tech (CSE) ||  @hackclub RAIT || SSOC'2022 || Open Source Contributor
+#### Web Developer || B.tech (CSE) ||  @hackclub RAIT || SSOC'2022 || Open Source Contributor
  
  
 ---
@@ -24,7 +24,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rishikavishnoi&theme=tokyonight)  
 
  
- ## 🏆 GitHub Trophies
+ ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rishikavishnoi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 
@@ -64,7 +64,7 @@ Solar System | Build a solar system using pure CSS animations in which all plane
  <!-- #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 -->
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rishikavishnoi)  -->
+<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rishikavishnoi)  -->
 [![Rishika's github activity graph](https://activity-graph.herokuapp.com/graph?username=rishikavishnoi)](https://github.com/rishikavishnoi/github-readme-activity-graph)
 
 
