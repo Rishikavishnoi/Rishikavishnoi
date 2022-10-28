@@ -24,7 +24,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rishikavishnoi&theme=tokyonight)  
 
  
- ## 🏆GitHub Trophies
+ ### 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rishikavishnoi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 
