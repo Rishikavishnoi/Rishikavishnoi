@@ -8,11 +8,7 @@
 ---
 
 
-
-<!-- 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikavishnoi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
- -->
+[![Rishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikavishnoi)](https://github.com/rishikavishnoi/github-readme-stats)
 
 
 
