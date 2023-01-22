@@ -8,7 +8,7 @@
 ---
 
 
-[![Rishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikavishnoi)](https://github.com/rishikavishnoi/github-readme-stats)
+[![Rishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikavishnoi&theme=tokyonight)](https://github.com/rishikavishnoi/github-readme-stats)
 
 
 
