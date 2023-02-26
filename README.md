@@ -2,7 +2,7 @@
 ## Hii there 👋, I'm  Rishika Vishnoi 
 
    
-### Mentor at @SWOC || Web Developer || B.tech (CSE) ||  @hackclub RAIT || SSOC'2022 || Open Source Contributor
+## Mentor at @SWOC || Web Developer || B.tech (CSE) ||  @hackclub RAIT || SSOC'2022 || Open Source Contributor
  
  
 ---
