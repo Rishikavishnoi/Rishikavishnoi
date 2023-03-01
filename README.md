@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain , Typescript**
 
-- 📝 I regularly write articles on [Hashnode](Hashnode)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@rishikavishnoi)
 
 - 💬 Ask me about **React , JavaScript**
 
