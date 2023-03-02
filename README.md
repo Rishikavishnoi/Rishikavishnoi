@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Rishikavishnoi56@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:-</h3>
 <p align="left">
 <a href="https://twitter.com/vishnoi_rishika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnoi_rishika" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishikavishnoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikavishnoi" height="30" width="40" /></a>
