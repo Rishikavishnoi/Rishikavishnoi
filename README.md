@@ -70,10 +70,10 @@ Solar System | Build a solar system using pure CSS animations in which all plane
 <!-- <a href="https://twitter.com/vishnoi_rishika" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  -->
-<a href="https://hashnode.com/@rishikavishnoi" target="_blank">
+<!-- <a href="https://hashnode.com/@rishikavishnoi" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
-</div>   -->
+</div>   --> -->
 
 
 
