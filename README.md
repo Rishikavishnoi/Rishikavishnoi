@@ -1,6 +1,6 @@
   
   
-  <h1 align="left"  >Hi ,👋 I'm Rishika Vishnoi</h1>
+  <h1 align="left"  >Hi 👋 I'm Rishika Vishnoi</h1>
 <h3 align="left">Mentor at @SWOC || Web Developer || B.tech (CSE) || @hackclub RAIT Summer of code|| SSOC'2022 || Open Source Contributor passionate frontend developer from India</h3>
 
 
